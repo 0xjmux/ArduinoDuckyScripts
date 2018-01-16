@@ -8,4 +8,4 @@ So, as a student, I can't afford to pay for an actual USB Rubber Ducky, so I am 
 
 The current version has a pushbutton soldered on to pins 3 and ground on the left side of the board, and a mini usb otg adapter for a plug. 
 
-I will be uploading the scripts I create for this little guy here, so that others can hopefully use them. Everything is coded in the Arduino IDE, using the Keyboard and Mouse libraries. 
+I will be uploading the scripts I create for this little guy here, so that others can hopefully use them. Everything is coded in the Arduino IDE, using the Keyboard and Mouse libraries. The varying scripts are each in their own folder, so the repository can be cloned and the scripts can be immediately opened in the Arduino IDE. 
